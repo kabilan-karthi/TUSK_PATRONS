@@ -22,7 +22,7 @@ TUSK PATRONS is an **AI + IoT conservation system** designed to reduce human-ele
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/kabilan-karthi/TUSK_PATRONS.git
 
 # Install dependencies
 npm install
