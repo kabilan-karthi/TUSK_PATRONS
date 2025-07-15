@@ -183,10 +183,3 @@ For collaboration, pilot deployment, or technical details:
 ### ✨ *Saving lives. Preserving habitats. Empowering coexistence.*
 
 ---
-
-If you'd like I can also:
-✅ Deliver this in .md file format for GitHub
-✅ Provide a shorter or simpler version
-✅ Help you tweak sections even further
-
-Just tell me!
