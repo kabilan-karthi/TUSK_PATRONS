@@ -140,6 +140,12 @@ Human-elephant conflict is a critical conservation and community safety issue in
 > *AI Chatbot*
 >
 > ![AI Chatbot](https://github.com/user-attachments/assets/ca50fb84-703a-4bcb-8285-165cc444832c)
+>
+> *PCB DESIGN / LORA TAG *
+> ![PCB](<img width="1201" height="659" alt="image" src="https://github.com/user-attachments/assets/1a46d4e6-34e8-47c8-8cf2-90a383f92a30" />
+> <img width="1191" height="636" alt="image" src="https://github.com/user-attachments/assets/a5eea56f-853f-4b76-9e97-131cc8764260" />
+
+)
 
 ---
 
